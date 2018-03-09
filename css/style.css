@@ -1,0 +1,11 @@
+.sidebar{
+    background-color: black;
+    height: 100%;
+    width: 20%;
+    display: block;
+    position: fixed;
+}
+
+/* .map {
+    width: 70%;
+} */
