@@ -6,14 +6,5 @@ This is the **fifth** project made for fulfillment of [Udacity's Full Stack Web 
 
 ## Abstract
 
-* **IP Address** 35.177.214.12.
-
-* **SSH Port** 2200.
-
-* **URL:** http://ec2-35-177-214-12.eu-west-2.compute.amazonaws.com/ .
-
-* **SSH Key Location** `/home/grader/.ssh/authorized_keys`
-
-
 ## Resources made use of to complete this project
 * [Google Maps Javascript APIs](https://developers.google.com/maps/documentation/javascript/tutorial)
